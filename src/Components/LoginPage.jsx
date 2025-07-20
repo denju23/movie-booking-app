@@ -14,13 +14,10 @@ const LoginPage = () => {
 
   const database = [
     {
-      useremail: "denju@gmail.com",
+      useremail: "moviebookingapp@yopmail.com",
       password: "Test@123",
     },
-    {
-      useremail: "meet@gmail.com",
-      password: "Test@123",
-    },
+   
   ];
 
   const doValidationLogin = () => {

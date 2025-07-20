@@ -5,15 +5,12 @@ const LoginDetail = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
-  const database = [
+   const database = [
     {
-      useremail: "denju@gmail.com",
+      useremail: "moviebookingapp@yopmail.com",
       password: "Test@123",
     },
-    {
-      useremail: "meet@gmail.com",
-      password: "Test@123",
-    },
+   
   ];
   const handleSubmit = (e) => {
     e.preventDefault();

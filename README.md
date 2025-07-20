@@ -57,3 +57,15 @@ git clone https://github.com/your-username/react-movie-booking-app.git
 cd react-movie-booking-app
 npm install
 npm start
+
+
+## 🔐 Login Credentials
+
+This application uses static login credentials for demo purposes.
+
+Use the following credentials to log in:
+
+- **Email**: `moviebookingapp@yopmail.com`
+- **Password**: `Test@123`
+
+> ⚠️ No signup required. The authentication is based on static credentials.
